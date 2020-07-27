@@ -1,0 +1,53 @@
+1 Primrose Seruru 12/12/1986 Male Modipane Director 12/10/2018 Marketing 95 0.95 12 1100 1100 5
+2 Ambrose Idius 12/10/1985 Female Mmopane Technician 10/05/2017 IT 115 0.90 11 100 1500 9
+3 Sthabura Olag 05/09/1999 Female Mogoditshane Accountant 10/20/2018 Accounts 175 0.90 12 1900 1200 3
+1 Primrose Seruru 12/12/1986 Male Modipane CEO 12/10/2018 Management 8 75 50 0.80 5000 0.9
+2 Ambrose Idius 12/10/1985 Female Mmopane Marketing Executive 10/05/2017 Marketing 8 68 30 0.65 4500 0.75
+3 Alisa Doran 23/11/1986 Female Gaborone Marketing Executive 8/01/2007 Marketing 8 68 30 0.65 4500 0.75
+4 Latoyia Wilt 05/09/1986 Female Gaborone Marketing Executive 21/02/2008 Marketing 8 68 30 0.65 4500 0.75
+5 Christoper Mable 03/11/1950 Male Gaborone Marketing Executive 1/03/2011 Marketing 8 68 30 0.65 4500 0.75
+6 Assunta Orme 23/07/1959 Female Gaborone Marketing Executive 3/04/2014 Marketing 8 68 30 0.65 4500 0.75
+7 Claude Mcchristian 12/01/1959 Male Gaborone Marketing Executive 3/05/2014 Marketing 8 68 30 0.65 4500 0.75
+8 Marlys Bukowski 07/07/1963 Female Gaborone Marketing Executive 1/06/2011 Marketing 8 68 30 0.65 4500 0.75
+9 Gabriela Cantero 05/04/1967 Female Gaborone Marketing Executive 3/07/2014 Marketing  8 68 30 0.65 4500 0.75
+10 Brian Copp 04/06/1967 Male Gaborone Marketing Executive 3/08/2014 Marketing 8 68 30 0.65 4500 0.75
+11 Hildegard Hillebrand 09/03/1970 Female Gaborone Marketing Executive 1/09/2011 Marketing 8 68 30 0.65 4500 0.75
+12 Darla Witham 02/11/1972 Female Gaborone Marketing Executive 21/10/2008 Marketing 8 68 30 0.65 4500 0.75
+13 Casie Mari 12/11/1975Female Gaborone Marketing Executive 2/11/2016 Marketing 8 68 30 0.65 4500 0.75
+14 Crumb Hasabi 13/12/1976 Male Gaborone Marketing Executive 1/13/2011 Marketing 8 68 30 0.65 4500 0.75
+15 Eldon Somerville 15/12/1978 Male Gaborone Marketing Executive 2/12/2016 Marketing 8 68 30 0.65 4500 0.75
+16 Sharleen Jobst 14/09/1982 Female Gaborone Marketing Executive 1/11/2011 Marketing 8 68 30 0.65 4500 0.75
+17 Johnna Bailey 05/08/1983 Male Gaborone Marketing Executive 8/12/2007 Marketing 8 68 30 0.65 4500 0.75
+18 Shantell Reetz 23/07/1986 Female Gaborone Marketing Executive 1/1/2011 Marketing 8 68 30 0.65 4500 0.75
+19 Suzann Laseter 29/02/1986 Female Gaborone Marketing Executive 8/12/2008 Marketing 8 68 30 0.65 4500 0.75
+20 Grover Brosnahan 12/03/1988 Male Gaborone Marketing Executive 21/12/2008 Marketing 8 68 30 0.65 4500 0.75
+21 Latina Ricciardi 14/04/1990 Female Mogoditshane Marketing Executive 2/01/2016 Marketing 8 68 30 0.65 4500 0.75
+22 Charlie Higuera 25/05/1990 Male Mogoditshane Marketing Executive 8/01/2007 Marketing 8 68 30 0.65 4500 0.75
+23 Mazie Maziarz 25/05/1991 Male Mogoditshane Marketing Executive 1/01/2011 Marketing 8 68 30 0.65 4500 0.75
+24 Stephenie Snively 14/ 06/1991 Female Mogoditshane Marketing Executive 2/09/2016 Marketing 8 68 30 0.65 4500 0.75
+25 Lorita Rodreguez 28/11/1991 Female Mogoditshane Marketing Executive 1/07/2011 Marketing 8 68 30 0.65 4500 0.75
+26 Sebono Ditlopi 25/10/1996 Male Mogoditshane Marketing Executive 2/06/2016 Marketing 8 68 30 0.65 4500 0.75
+27 Freddy Crisler 28/10/1948 Male Mogoditshane HR Officer 1/06/2011 Human Resource 8 64 30 0.50 4000 0.65
+28 Meggan Yee 24/10/1948 Female Mogoditshane HR Officer 22/03/2016 Human Resource 8 64 30 0.50 4000 0.65
+29 Gerard Profitt 8/11/1954 Male Mogoditshane HR Officer 21/12/2008 Human Resource 8 64 30 0.50 4000 0.65
+30 Fannie Campo 5/09/1954 Female Mogoditshane HR Officer 2/05/2016 Human Resource 8 64 30 0.50 4000 0.65
+31 Quincy Schrader 31/08/1956 Female Gabane HR Officer 8/11/2007 Human Resource 8 64 30 0.50 4000 0.65
+32 Kathrine Desanti 11/07/1956 Female Gabane Account Officer 21/12/2008 Human Resource 8 64 30 0.50 4000 0.65
+33 Margene Lacey 19/05/1956 Female Gabane Account Officer 2/10/2016 Human Resource 8 64 30 0.50 4000 0.65 
+34 Lyn Linsey 12/04/1957 Female Gabane Account Officer 2/09/2016 Human Resource 8 64 30 0.50 4000 0.65
+35 Breana Mahone 27/06/1959 Male Gabane Account Officer 8/07/2007 Human Resource  8 64 30 0.50 4000 0.65
+36 Allie Jeanlouis 12/03/1961 Male Gabane Account Officer 21/11/2008 Human Resource  8 64 30 0.50 4000 0.65
+37 Florence Statler 24/05/1964 Female Gabane ICT 8/10/2007 IT 8 59 30 0.50 4000 0.60
+38 Berna Becerra 5/11/1965 Male Gabane ICT 1/11/2011 IT 8 59 30 0.50 4000 0.60
+39 Dottie Burbank 13/11/1965 Male Gabane ICT 3/12/2014 IT 8 59 30 0.50 4000 0.60
+40 Jack Thurman 31/12/1966 Male Gabane Sales 1/11/2011 Support Staff 8 50 30 0 3500 0.50
+41 Casey Alleyne 31/03/1970 Female Gabane Sales 8/05/2007 Support Staff 8 50 30 0 3500 0.50
+42 Britteny Tamez 22/04/1975 Female Ramotswa Sales 21/05/2008 Support Staff 8 50 30 0 3500 0.50
+43 Georgiann Sampson 14/05/1975 Male Ramotswa Driver 3/06/2014 Support Staff 8 50 30 0 3500 0.50
+44 Versie Harth 17/06/1976 Male Ramotswa Driver 1/07/2011 Support Staff 8 50 30 0 3500 0.50
+45 Junko Philips 31/07/1977 Male Ramotswa Tour Operator 8/08/2007 Support Staff 8 50 30 0 3500 0.50
+46 Hilde Bulman 20/04/1985 Male Ramotswa Tour Operator 3/05/014 Support 8 50 30 0 3500 0.50
+47 Augustine Leatherwood 10/05/1987 Male Ramotswa Temporary Staff 1/04/2011 Support Staff 8 40 20 0 3500 0.50
+48 Reginald Rudisill 9/10/ 1987 Male Ramotswa Temporary Staff 8/03/2007 Support Staff 8 40 20 0 3500 0.50
+49 Earline Mcdavis 10/04/1988 Male Ramotswa Temporary Staff 21/02/2008 Support Staff 8 40 20 0 3500 0.50
+50 Blossom Pleas 27/09/1990 Female Ramotswa Temporary Staff 8/02/2007 Support Staff 8 40 20 0 3500 0.50
